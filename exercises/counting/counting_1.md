@@ -14,3 +14,5 @@ You'll always want some high-level description of a FASTA/Q file, like: how many
 **Output:** Each of the 6 calculations from above.
 
 Pretty straight forward stuff and I think it’s a good starting point for you. If you’re struggling with some of this, that’s fine. The best way to learn is to struggle and continue to try tweaking your code, Googling solutions, and trying again.
+
+*Rev DJN 15Nov2017*

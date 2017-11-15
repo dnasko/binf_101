@@ -16,3 +16,5 @@ N = 20 (2.8e-8)
 ```
 
 Those are made up numbers, but you know what I mean...
+
+*Rev DJN 15Nov2017*

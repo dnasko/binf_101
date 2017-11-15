@@ -13,3 +13,5 @@ A [*k*-mer](https://en.wikipedia.org/wiki/K-mer) is a substring of a sequence of
 **Task:** Write a script capable of counting all possible *k*-mers between 2-7, and let the user decide which *k*-mer to calculate.
 
 **Output:** 2-column TSV file with the count in the left column and the *k*-mer in the right-column.
+
+*Rev DJN 15Nov2017*
