@@ -17,4 +17,6 @@ T -> A
 A -> U
 ```
 
-*Rev DJN 15Nov2017*
+*Hint* Python's [translate](http://python-reference.readthedocs.io/en/latest/docs/str/translate.html) function may come in handy here.
+
+*Rev DJN 16Nov2017*
