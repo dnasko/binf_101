@@ -1,6 +1,6 @@
 ### Transcription
 
-Remember the [central dogma of molecular biology](https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology)? Of course you do! Well in this exercise we're going to bypass millions (billions?) of years of evolution and create our own way to [transcribe](https://en.wikipedia.org/wiki/Transcription_(biology)) DNA to RNA.
+Remember the [central dogma of molecular biology](https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology)? Of course you do! Well in this exercise we're going to bypass billions of years of evolution and create our own way to [transcribe](https://en.wikipedia.org/wiki/Transcription_(biology)) DNA to RNA.
 
 Recall, anytime we get sequencing results from a DNA sequencer it's always *DNA* that was sequenced (even in the csae of RNA-Seq, it's still DNA that was sequenced, even though really you're analyzing sequences that were once RNA). Fortunately you can write a script that turns your DNA into RNA pretty easily.
 
@@ -17,6 +17,6 @@ T -> A
 A -> U
 ```
 
-*Hint* Python's [translate](http://python-reference.readthedocs.io/en/latest/docs/str/translate.html) function may come in handy here.
+*Hint Python's [translate](http://python-reference.readthedocs.io/en/latest/docs/str/translate.html) function may come in handy here.*
 
 *Rev DJN 16Nov2017*
