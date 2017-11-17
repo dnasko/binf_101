@@ -8,4 +8,6 @@ So take a look back at the [codon table](https://en.wikipedia.org/wiki/DNA_codon
 
 **Output:** A peptide FASTA file.
 
-*Rev DJN 16Nov2017*
+*Hint: You may want to use a [3rd party tool](http://www.bioline.com/media/calculator/01_13.html) to check your work.*
+
+*Rev DJN 17Nov2017*
