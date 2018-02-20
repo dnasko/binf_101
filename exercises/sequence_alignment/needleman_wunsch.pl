@@ -57,12 +57,12 @@ sub Similarity
 sub ID 
 {  # call &ID(char1,char2)
     my ($aa1, $aa2) = @_;
-    return ($aa1 eq $aa2)?$match:$mismatch;
+    return ($aa1 eq $aa2)?$match:$mismatch; ## ternary operator. You dont have to use this.
 }
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 sub MAX
 {	# find max value
-	# call &MAX(default value, other values . . . )
+	# call MAX(default value, other values . . . )
 	my ($m,@l) = @_;
     foreach my $x (@l) { $m = $x if ($x > $m); }
     return $m;
