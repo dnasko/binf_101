@@ -9,7 +9,7 @@ But why? Well, perhaps the most important aspect of coding is documentation. I t
 As you can see Markdown makes it easy to structure your document in a note-taking style with section headers, but you can also add thigns like:
 
 - Bulleted lists
-- [Embedded links](philadelphiaeagles.com)
+- [Embedded links](https://www.philadelphiaeagles.com)
 - Or `inline code`
 
 You can also add:
