@@ -8,6 +8,6 @@ Well, this is awkward. Why are the fancy Mac people and nerds with Linux machine
 
 So what's the problem here? Well, you don't see Windows OS on that tree, thus there's a chasm between Mac/Unix and Windows machines when it comes to command line interfaces (CLI). Don't worry though, there are a few options we have to save your poor doomed PC still.
 
-### [Navigating the file system](nav-sys)
+### [Navigating the file system](#nav-sys)
 
 Blah

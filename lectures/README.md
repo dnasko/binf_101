@@ -3,7 +3,7 @@
 The following topics are discussed in detail over a course of "lectures" (really, just mark down files) for you to read up on.
 
 0. [You're reading a Mark Down file. Why?](0-markdown.md)
-1. Terminal and BASH I
+1. [Terminal and BASH I](1-terminal_I.md)
 2. Terminal and BASH II
 3. UNIX command basics
 4. Git and GitHub
