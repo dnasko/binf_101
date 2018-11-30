@@ -51,7 +51,7 @@ Now we need to put these binaries in a place where your PATH can find them:
 ```bash
 cd
 cd bin
-ln -s ../software2/SPAdes-3.13.0-Linux/bin/* ./
+ln -s ../software/SPAdes-3.13.0-Linux/bin/* ./
 cd
 spades.py
 ```
