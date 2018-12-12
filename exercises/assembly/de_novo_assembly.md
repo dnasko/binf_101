@@ -51,7 +51,7 @@ Now we need to put these binaries in a place where your PATH can find them:
 ```bash
 cd
 cd bin
-ln -s ../software/SPAdes-3.13.0-Linux/bin/* ./
+ln -s ../software2/SPAdes-3.13.0-Linux/bin/* ./
 cd
 spades.py
 ```
@@ -71,7 +71,7 @@ cp /cbcbhomes/dnasko/projects/teaching/data/165_3D_100K.fastq ~/data/fastq/
 That will copy the FASTQ file in to the data/fastq/ folder in your home directory. Now let's run the assembly:
 
 ```bash
-spades.py --only-assembler --threads 4 -s ~/data/fastq/165_3D_R1.fastq -o spades_out
+spades.py --only-assembler --threads 4 -s ~/data/fastq/165_3D_100K.fastq -o spades_out
 ```
 
 This command will take a little while to run (at least 2 to 3 minutes), so feel free to grab some coffee while you wait.
